@@ -81,4 +81,10 @@ footer a {
 }
 
 
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+}
+  /* Hero Style End */
   
